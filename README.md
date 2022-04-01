@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Repo for the Medium article [Up and running Storybook with Next.js](https://szaranger.medium.com/up-and-running-storybook-next-js-d98b45bffc35)
 
 ## Getting Started
 
